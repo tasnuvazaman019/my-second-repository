@@ -1,0 +1,128 @@
+.header{
+	overflow: hidden;
+	min-height: 5px;
+	background-color: #333131;
+}
+
+.h_left{
+	float: left;
+    display: inline-block;
+}
+
+.h_left ul{
+	list-style-type: none;
+	margin: 10px;
+	padding: 0px;
+	overflow: hidden;
+	background-color: #333131;
+}
+
+.h_left ul li{
+	float: left;
+}
+
+.h_left ul li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 4px;
+    text-decoration: none;
+}
+
+.h_left ul li a:hover{
+	background-color: #111111;
+}
+/*right*/
+.h_right{
+	float: right;
+    display: inline-block;
+}
+
+.h_right ul{
+	list-style-type: none;
+	margin: 10px;
+	padding: 0px;
+	overflow: hidden;
+	background-color: #333131;
+}
+
+.h_right ul li{
+	float: right;
+}
+
+.h_right ul li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 4px;
+    text-decoration: none;
+}
+
+.notice{
+	overflow: hidden;
+	min-height: 20px;
+    background-color: white;
+}
+
+
+.header_2{
+	overflow: hidden;
+	min-height: 200px;
+	background-color: #82130b;
+}
+
+.header_2 p{
+	color: white;
+	text-align: center;
+}
+
+
+.option{
+	overflow: hidden;
+	min-height: 5px;
+	text-align: center;
+	background-color: #961c13;
+}
+
+.menu{
+	float: center;
+	display: inline-block;
+}
+
+.menu ul{
+	list-style: none;
+	background-color: #961c13;
+	text-align: center;
+	margin: 10px;
+	padding: 0px;
+	overflow: hidden;
+
+}
+
+.menu ul li{
+	float: left;
+}
+
+.menu ul li a{
+	display: block;
+    color: white;
+    text-align: center;
+    padding: 4px;
+    text-decoration: none;
+}
+
+.body{
+	overflow: hidden;
+	min-height: 5px;
+	background-image: url(iub.jpg)
+}
+
+}
+
+
+
+
+
+
+
+
